@@ -1,7 +1,6 @@
 X = 10
 
 if x%2 == 0
-puts "Even!"
-Else 
+else 
 puts "nahh"
 end
