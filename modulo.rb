@@ -1,4 +1,4 @@
-X = 10
+x = 10
 
 if x % 2 == 0
 puts "Even!"
